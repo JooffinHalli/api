@@ -1,0 +1,1 @@
+module.exports = (name) => `  ['${name}']: require('./${name}'),\n`

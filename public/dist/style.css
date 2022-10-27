@@ -1,0 +1,217 @@
+/*!*******************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/App/MainButtons/MainButton/index.module.scss ***!
+  \*******************************************************************************************************************************************/
+.JXsuuNSzKGlyo0MnYOA4,
+.IkD1lAUT5CN5r40brbDr,
+.yGSFM9D9HL3CGwXy_MBs,
+.lqG3cHITg6lW7Rwp4G1z {
+  opacity: 0;
+  animation: StItahXQ8N_axVHSp0Cr 0.7s forwards;
+  height: 70px;
+  width: 300px;
+  color: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 10px 0;
+  cursor: pointer; }
+  .JXsuuNSzKGlyo0MnYOA4:hover,
+  .IkD1lAUT5CN5r40brbDr:hover,
+  .yGSFM9D9HL3CGwXy_MBs:hover,
+  .lqG3cHITg6lW7Rwp4G1z:hover {
+    color: white;
+    background: rgba(0, 0, 0, 0.5); }
+  .JXsuuNSzKGlyo0MnYOA4:active,
+  .IkD1lAUT5CN5r40brbDr:active,
+  .yGSFM9D9HL3CGwXy_MBs:active,
+  .lqG3cHITg6lW7Rwp4G1z:active {
+    color: rgba(0, 0, 0, 0.5);
+    background: white; }
+
+@keyframes StItahXQ8N_axVHSp0Cr {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+.g8krQxo7lyQ_bCcq7g8B {
+  height: 70px;
+  width: 300px;
+  margin: 10px 0; }
+
+.Z3x8Vq9xvaY_iSeiPGp0 {
+  height: 70px;
+  width: 300px;
+  color: rgba(0, 0, 0, 0.5);
+  border: 1px solid red;
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 10px 0; }
+
+/*!********************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/App/MainButtons/index.module.scss ***!
+  \********************************************************************************************************************************/
+.J7o67FKk8VpYCMpkd61A {
+  height: fit-content;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px 0; }
+
+/*!********************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/App/Counters/Counter/Button/index.module.scss ***!
+  \********************************************************************************************************************************************/
+.yZVkOcf_ksWcENO5bh_C {
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 25px;
+  cursor: pointer; }
+  .yZVkOcf_ksWcENO5bh_C:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 3px 5px rgba(11, 11, 11, 0.38);
+    z-index: 50; }
+  .yZVkOcf_ksWcENO5bh_C:active {
+    transform: translateY(0px);
+    box-shadow: none; }
+  .yZVkOcf_ksWcENO5bh_C.Bj1nSA8kqMnMq0SoGUoX, .yZVkOcf_ksWcENO5bh_C.dY5ACSyHMkdCjka4nWQF {
+    width: 40px;
+    min-width: 40px;
+    height: 40px;
+    min-height: 40px; }
+  .yZVkOcf_ksWcENO5bh_C.gXEJqqR_wXXioZhy_Be7 {
+    width: 20px;
+    min-width: 20px;
+    height: 20px;
+    min-height: 20px;
+    font-size: 16px;
+    padding: 0 0 2px 0; }
+    .yZVkOcf_ksWcENO5bh_C.gXEJqqR_wXXioZhy_Be7:hover {
+      background: red; }
+
+/*!*************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/App/Counters/Counter/index.module.scss ***!
+  \*************************************************************************************************************************************/
+.RQrLodrvHNeXbDQw3bvg {
+  opacity: 0;
+  animation: zYCCWVsXtSR0Wms9Gnxa 0.5s forwards;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+  height: 70px;
+  width: 300px;
+  min-width: 300px;
+  color: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  box-shadow: rgba(50, 50, 93, 0.5) 0px 13px 27px -5px, rgba(0, 0, 0, 0.5) 0px 8px 16px -8px;
+  margin: 20px; }
+  .RQrLodrvHNeXbDQw3bvg .BqwkhNxUQJRgS1WYMOgA {
+    height: 100%;
+    width: 50px;
+    min-width: 50px;
+    font-size: 25px;
+    border-right: 1px solid rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  .RQrLodrvHNeXbDQw3bvg .Cc0OfTVnGbIErFsjHVYo {
+    color: red; }
+  .RQrLodrvHNeXbDQw3bvg .R9psvpYYL6r07hUfYQF_ {
+    height: 100%;
+    display: flex;
+    align-items: flex-start; }
+  .RQrLodrvHNeXbDQw3bvg .ACeTVChRi8yEAnpNIMVV {
+    max-width: 100px;
+    text-overflow: ellipsis;
+    overflow: hidden; }
+
+@keyframes zYCCWVsXtSR0Wms9Gnxa {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+/*!*************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/App/Info/index.module.scss ***!
+  \*************************************************************************************************************************/
+.S9wLqAk838NjZvLFWqB9 {
+  padding-top: 20%;
+  width: 100%;
+  display: flex;
+  justify-content: center; }
+  .S9wLqAk838NjZvLFWqB9 .tMfnfK5c8BOwUlL548YA {
+    font-size: 25px;
+    margin-bottom: 10px;
+    width: 390px;
+    display: flex; }
+    .S9wLqAk838NjZvLFWqB9 .tMfnfK5c8BOwUlL548YA .wT2zZ91MPU_Kb_haIEuj {
+      width: 250px;
+      height: fit-content; }
+
+/*!********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/App/index.module.scss ***!
+  \********************************************************************************************************************/
+.KFEtzfy5JDxOE4ZTkkow {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  overflow: hidden;
+  overflow: auto; }
+  .KFEtzfy5JDxOE4ZTkkow .c_rIa81PAlfhVRhhNufA {
+    box-sizing: content-box;
+    box-shadow: rgba(50, 50, 93, 0.5) -7px 5px 60px -12px inset, rgba(0, 0, 0, 0.5) -10px -5px 30px -18px inset;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    min-width: 400px; }
+  .KFEtzfy5JDxOE4ZTkkow .KgTu7Cyicw1Ds6SkU6dk {
+    padding: 50px 0;
+    display: flex;
+    align-items: center;
+    min-width: 400px; }
+  .KFEtzfy5JDxOE4ZTkkow .TVsY2jRuvzAT1eE2tHER {
+    box-shadow: rgba(50, 50, 93, 0.5) 7px 5px 60px -12px inset, rgba(0, 0, 0, 0.5) 10px -5px 30px -18px inset;
+    display: flex;
+    justify-content: center;
+    min-width: 400px; }
+
+/*!*********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
+  \*********************************************************************************************************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  user-select: none; }
+
+#root {
+  width: 100%;
+  height: 100vh; }
+
+::-webkit-scrollbar {
+  width: 10px; }
+
+::-webkit-scrollbar-thumb {
+  width: 20px;
+  border-radius: 10px;
+  background: #979797; }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.5); }
+

@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "mock": "node _system/index.js",
+    "open": "node _system/scripts/open.js",
+    "gen": "node _system/scripts/gen.js"
+  }
+}
